@@ -1,0 +1,6 @@
+name: production-build
+version: 1.0.0
+description: Write information about the build to files and do an npm build
+keywords:
+  - deployment
+  - container
